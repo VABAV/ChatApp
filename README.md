@@ -13,15 +13,18 @@
 
 ## 🌟 Features
 - Clean user dashboard with chat list
-- Responsive chat screens
 - Interactive states (hover, active, notifications)
-- Custom chat bubbles and status icons
 
 ---
 
 ## 🛠️ Tech & Tools
 - `Figma` for layout, components, and color systems
 - `Webflow` for interactions and preview animations
+
+---
+
+## 🔗 Live Prototype
+👉 [See on Webflow](https://chatapp-home-page-cc2e3f.webflow.io/)
 
 ---
 
